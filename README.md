@@ -4,9 +4,9 @@
 
 ## Deployments
 
-There is only a `master` branch. Deployments there will automatically go to production on Netlify.
+There is only a `master` branch. Deployments there will automatically go to the GitHub Pages.
 
-The deployment URL is: https://slider-assets.maklaro.com (Netlify domain: https://maklaro-slider-assets.netlify.app).
+The deployment URL is: https://slider-assets.maklaro.com.
 
 ## SVG coloring
 
